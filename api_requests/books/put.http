@@ -1,0 +1,7 @@
+PUT /books/69e7302c02f4a986ff92a8f9 HTTP/1.1
+Host: localhost:3000
+Content-Type: application/json
+
+{
+    "image": "https://images.unsplash.com/photo-150784272343-583f20270319?w=400"
+}

@@ -1,0 +1,20 @@
+{
+    "TITLE_REQUIRED": "Titel ist erforderlich",
+    "TITLE_LENGTH": "Die Zeichenlänge sollte zwischen 5 und 100 liegen",
+    "TITLE_TYPE": "Nur alphanumerische Werte sind zulässig",
+    "ISBN_REQUIRED": "ISBN ist erforderlich",
+    "ISBN_TYPE": "Nur alphanumerische Werte sind zulässig",
+    "AUTHOR_REQUIRED": "Autor ist erforderlich",
+    "AUTHOR_LENGTH": "Die Zeichenlänge sollte zwischen 3 und 100 liegen",
+    "STOCK_REQUIRED": "Bestandsmenge ist erforderlich",
+    "STOCK_RANGE": "Bestandsmenge muss zwischen 1 und 1000 liegen",
+    "IMAGE_URL": "Bild muss eine gültige URL sein",
+    "INVALID_ID": "Ungültige ID",
+    "BOOK_FETCHED": "Buch erfolgreich abgerufen",
+    "BOOKS_FETCHED": "Bücher erfolgreich abgerufen",
+    "BOOK_CREATED": "Buch erfolgreich hinzugefügt",
+    "BOOK_UPDATED": "Buch erfolgreich aktualisiert",
+    "BOOK_DELETED": "Erfolgreich gelöscht",
+    "BOOK_NOT_FOUND": "Buch nicht gefunden",
+    "INTERNAL_SERVER_ERROR": "Interner Serverfehler"
+}
