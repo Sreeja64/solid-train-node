@@ -1,0 +1,11 @@
+POST /books HTTP/1.1
+Host: localhost:3000
+Content-Type: application/json
+
+{
+    "title": "Geetanjali",
+    "isbn": "SREE-789",
+    "author": "Rabindranath Tagore",
+    "countInStock": 100,
+    "image": "https://example.com/book-cover.jpg"
+}

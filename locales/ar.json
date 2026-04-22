@@ -1,0 +1,20 @@
+{
+    "TITLE_REQUIRED": "العنوان مطلوب",
+    "TITLE_LENGTH": "يجب أن يكون طول الأحرف بين 5 و 100",
+    "TITLE_TYPE": "يُسمح فقط بالقيم الأبجدية الرقمية",
+    "ISBN_REQUIRED": "ISBN مطلوب",
+    "ISBN_TYPE": "يُسمح فقط بالقيم الأبجدية الرقمية",
+    "AUTHOR_REQUIRED": "المؤلف مطلوب",
+    "AUTHOR_LENGTH": "يجب أن يكون طول الأحرف بين 3 و 100",
+    "STOCK_REQUIRED": "العدد المتاح مطلوب",
+    "STOCK_RANGE": "العدد المتاح يجب أن يكون بين 1 و 1000",
+    "IMAGE_URL": "يجب أن تكون الصورة عنوان URL صحيح",
+    "INVALID_ID": "معرف غير صحيح",
+    "BOOK_FETCHED": "تم جلب الكتاب بنجاح",
+    "BOOKS_FETCHED": "تم جلب الكتب بنجاح",
+    "BOOK_CREATED": "تمت إضافة الكتاب بنجاح",
+    "BOOK_UPDATED": "تم تحديث الكتاب بنجاح",
+    "BOOK_DELETED": "تم الحذف بنجاح",
+    "BOOK_NOT_FOUND": "الكتاب غير موجود",
+    "INTERNAL_SERVER_ERROR": "خطأ في الخادم"
+}

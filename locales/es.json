@@ -1,0 +1,20 @@
+{
+    "TITLE_REQUIRED": "El título es obligatorio",
+    "TITLE_LENGTH": "La longitud de caracteres debe estar entre 5 y 100",
+    "TITLE_TYPE": "Solo se permite valores alfanuméricos",
+    "ISBN_REQUIRED": "ISBN es obligatorio",
+    "ISBN_TYPE": "Solo se permite valores alfanuméricos",
+    "AUTHOR_REQUIRED": "El autor es obligatorio",
+    "AUTHOR_LENGTH": "La longitud de caracteres debe estar entre 3 y 100",
+    "STOCK_REQUIRED": "El conteo en stock es obligatorio",
+    "STOCK_RANGE": "El conteo en stock debe estar entre 1 y 1000",
+    "IMAGE_URL": "La imagen debe ser una URL válida",
+    "INVALID_ID": "ID inválido",
+    "BOOK_FETCHED": "Libro obtenido exitosamente",
+    "BOOKS_FETCHED": "Libros obtenidos exitosamente",
+    "BOOK_CREATED": "Libro agregado exitosamente",
+    "BOOK_UPDATED": "Libro actualizado exitosamente",
+    "BOOK_DELETED": "Eliminado exitosamente",
+    "BOOK_NOT_FOUND": "Libro no encontrado",
+    "INTERNAL_SERVER_ERROR": "Error interno del servidor"
+}
