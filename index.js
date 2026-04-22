@@ -32,9 +32,9 @@ i18Next
 .use(localizationBackend) //to load locales files
 .use(localizationMiddleware.LanguageDetector) //to detect language from the request
 .init({
-    fallback: "en", 
+    fallbackLng: "en", 
     backend: {
-        loadPath: "locales/{{language}}.json"
+        loadPath: "locales/{{lng}}.json"
     }
 })
 
